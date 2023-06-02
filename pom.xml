@@ -13,6 +13,7 @@
     <module>strategy</module>
     <module>factory</module>
     <module>builder</module>
+      <module>observer</module>
   </modules>
 
   <properties>
